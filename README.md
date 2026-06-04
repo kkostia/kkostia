@@ -74,16 +74,23 @@ public final class KostiantynPanasenko {
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,postgres,angular,ts,js,html,css,c,cs,react,nextjs,nodejs,tailwind,supabase,vercel,git,github&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,py,postgres,angular,html,css,git,github&perline=8" alt="Core tech stack icons" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Core-Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Core-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Testing-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Hands--on-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Hands--on-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Hands--on-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Hands--on-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Some%20exposure-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Some%20exposure-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Some%20exposure-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Light%20exposure-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
